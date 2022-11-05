@@ -5,3 +5,7 @@ hello master4
 hello master5
 hello master6
 hello master7
+<<<<<<< HEAD
+=======
+hello master8
+>>>>>>> hot-fix
