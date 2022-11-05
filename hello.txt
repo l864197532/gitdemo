@@ -1,19 +1,7 @@
-hello git !
-yy
-pasd
-asd
-
-asd
-wqd
-as
-d	:wq
-as
-ppyiasd
-ppyi
-ppyiasd
-ppyid
-ppyias
-ppyiasd
-ppyi
-ppyisada
-ppsdasdsadassadi
+hello master1
+hello master2
+hello master3
+hello master4
+hello master5
+hello master6
+hello master7
